@@ -306,3 +306,6 @@ echo hello PostgreSQL
 psql --username=freecodecamp database=postgres
 psql --username=freecodecamp --database=postgres
 psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
+\d
+psql --username=freecodecamp --dbname=postgres
